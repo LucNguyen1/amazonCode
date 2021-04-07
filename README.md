@@ -1,2 +1,2 @@
 # amazonCode
-CS2 Porject
+CS2 Project
